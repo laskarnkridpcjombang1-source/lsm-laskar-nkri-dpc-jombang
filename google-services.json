@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137217929905",
+    "project_id": "laskar-nkri-dpc",
+    "storage_bucket": "laskar-nkri-dpc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137217929905:android:44f00e7055dbfb31dde890",
+        "android_client_info": {
+          "package_name": "com.lsm.laskarnkridpcjombang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL15H7l9k_oF5TZOUyb1N1veLiY3Pt7XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
